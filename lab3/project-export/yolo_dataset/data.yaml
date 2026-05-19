@@ -1,0 +1,10 @@
+path: /content/drive/MyDrive/yolo_dataset
+
+train: train/images
+val: val/images
+test: test/images
+
+names:
+  0: apple
+  1: banana
+  2: orange
