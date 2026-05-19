@@ -1,0 +1,6 @@
+,apple,banana,peaches,pomegranate,strawberry
+apple,9,1,2,0,0
+banana,0,9,0,0,0
+peaches,1,1,14,0,0
+pomegranate,0,0,1,16,0
+strawberry,0,1,1,0,24
